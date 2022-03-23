@@ -26,14 +26,14 @@ I like programming. It gives me freedom in my livestyle. I learn hard to get the
 
 ## **Skills and Proficiency:**
 
-*HTML5
-*CSS3
-*sass, less
-*JavaScript Basics
-*Git, GitHub
-*VS Code
-*Photoshop, Figma
-*React Basics
+- HTML5
+- CSS3
+- sass, less
+- JavaScript Basics
+- Git, GitHub
+- VS Code
+- Photoshop, Figma
+- React Basics
 
 ---
 
@@ -68,6 +68,6 @@ function capitalizeWord(word) {
 
 ## **Languages:**
 
-*English - Intermediate B1(according to the online test at EFset Logo www.efset.org)
-*Deutch - beginner
-\*Russian - native
+- English - Intermediate B1(according to the online test at EFset Logo www.efset.org)
+- Deutch - beginner
+- Russian - native
