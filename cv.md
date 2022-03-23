@@ -1,6 +1,6 @@
 ## rsschool-cv
 
-===
+---
 
 Anatoly Artamonov
 
