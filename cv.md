@@ -8,8 +8,8 @@ Anatoly Artamonov
 
 ### contacts
 
-**Phone:** +7-961-532-89-22
-**e-mail:** 79615328922@yandex.----------
+- **Phone:** +7-961-532-89-22
+- **e-mail:** 79615328922@yandex.ru
 
 ---
 
